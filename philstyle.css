@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-family: vcr;
+}
+  body{background-image: url(images/philbg.gif) ; background-size: 30% }
+  div {
+  border-style: dotted;
+  border-color: black;
+  background-color:#FFFFFF;
+  border-width: medium;
+}
+@font-face {
+font-family: 'vcr';
+src: url('/fonts/vcr.ttf')
+}
+p {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 0px;
+}
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+html {
+  cursor: url('images/cursor.png'), pointer;
+}
