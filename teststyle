@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-family: comic;
+}
+  body{background-image: url(images/ohio.png) ; background-size: 30% }
+  div {
+  border-style: dotted;
+  border-color: black;
+  background-color:#FFFFFF;
+  border-width: medium;
+}
+@font-face {
+font-family: 'comic';
+src: url('/fonts/COMIC.ttf')
+}
+p {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 0px;
+}
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+html {
+  cursor: url('images/ohio.png'), pointer;
+}
