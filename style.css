@@ -28,6 +28,3 @@ center {
 html {
   cursor: url('images/cursor.png'), pointer;
 }
-retroblast {
-  image-rendering: pixelated;
-}
