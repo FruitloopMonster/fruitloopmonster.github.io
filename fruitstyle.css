@@ -31,4 +31,5 @@ html {
 .retroblast
 {
   image-rendering: pixelated;
+  flex: 1;
 }
