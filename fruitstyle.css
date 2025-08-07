@@ -5,6 +5,7 @@ body {
 }
   body{background-image: url(images/fruitbg.gif) ; background-size: 30% }
   div {
+  overflow: hidden;
   border-style: dotted;
   border-color: black;
   background-color:#FFFFFF;
