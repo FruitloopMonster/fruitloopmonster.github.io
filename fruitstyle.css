@@ -29,7 +29,7 @@ center {
 html {
   cursor: url('images/cursor.png'), pointer;
 }
-.retroblast
+.retroblast img
 {
   image-rendering: pixelated;
   object-fit: contain;
