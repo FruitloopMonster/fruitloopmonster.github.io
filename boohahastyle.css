@@ -11,7 +11,15 @@ body {
 }
 @font-face {
 font-family: 'comic';
+src: url('/fonts/COMIC.ttf')
+}
+@font-face {
+font-family: 'retroslop';
 src: url('/fonts/hehretroblast.ttf')
+}
+@font-face {
+font-family: 'vcr';
+src: url('/fonts/vcr.ttf')
 }
 p {
   text-align: center;
