@@ -1,0 +1,15 @@
+body {
+  background-color: red;
+  color: rgb(255, 255, 255);
+  font-family: Verdana;
+}
+  h1.dashed {border-style: dashed;}
+  body{background-image: url(ohio.png) ; background-size: 30% }
+  div {
+    
+  }
+p {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 0px;
+}
