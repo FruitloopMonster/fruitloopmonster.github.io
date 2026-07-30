@@ -39,6 +39,11 @@ html {
   border-width: auto;
 }
 
+.lefttext
+{
+  text-align: start;
+}
+
 .retroblast
 {
   image-rendering: pixelated;
