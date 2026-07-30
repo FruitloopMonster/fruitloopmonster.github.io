@@ -28,6 +28,17 @@ center {
 html {
   cursor: url('images/cursor.png'), pointer;
 }
+
+dividerauto
+{
+  height: auto;
+  width: auto;
+  border-style: dotted;
+  border-color: black;
+  background-color:#FFFFFF;
+  border-width: medium;
+}
+
 .retroblast
 {
   image-rendering: pixelated;
