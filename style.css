@@ -36,7 +36,7 @@ html {
   border-style: dotted;
   border-color: black;
   background-color:#FFFFFF;
-  border-width: medium;
+  border-width: auto;
 }
 
 .retroblast
